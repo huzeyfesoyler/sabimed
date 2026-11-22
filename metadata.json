@@ -1,0 +1,6 @@
+{
+  "name": "Oneira — Dream Journal",
+  "description": "A multi-modal dream journal that transcribes waking voice recordings, generates surrealist interpretations of core emotional themes, maps Jungian archetypes, supports tag-based search, and offers multi-turn symbol dialogue.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
